@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Jamila
-- 👀 I’m interested in Robotics
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me jamnjeri@gmail.com
 
