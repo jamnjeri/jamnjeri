@@ -15,7 +15,7 @@ I'm a mechatronics engineer, passionate about full-stack development <img src="h
 - 🔭 I’m looking for a Software Engineer role where I can contribute to frontend and backend web applications.
 - 🌱 Exploring microPython.
 - ⚡ In my free time I solve problems on Codewars and Hackerank.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jamila-mathu-4680001a1/)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-jamnjeri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jamila-mathu-4680001a1/)
 
 ---
 
