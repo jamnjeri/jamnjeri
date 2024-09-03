@@ -12,7 +12,7 @@
 ### :woman_technologist: &nbsp;About Me :
 I'm a mechatronics engineer, passionate about software development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and intrigued by robotics and automation.I'm excited about the endless possibilities that lie at the intersection of technology, engineering, and creativity.
 
-- 🔭 I’m looking for a Software Engineer role where I can contribute to frontend and backend web applications.
+<!-- - 🔭 I’m looking for a Software Engineer role where I can contribute to frontend and backend web applications. -->
 - 🌱 Exploring microPython.
 - ⚡ In my free time I solve problems on Codewars and Hackerank.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-jamnjeri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jamila-mathu-4680001a1/)
